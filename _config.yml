@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Luna_Headshot.jpg"
+  avatar           : "Luna.jpg"
   name             : "Luna Lu"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "Undergraduate researcher in theoretical computer science"
